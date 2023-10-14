@@ -1,0 +1,19 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+*.log.*
+
+# Environment variables
+.env
+
+# User uploads
+static/uploads/
+
+#images
+static/images/
+
+#IDE specific settings
+.vscode/
