@@ -9,9 +9,13 @@ __pycache__/
 # Environment variables
 .env
 *.env
+/config/config.dev.env
+/config/config.prod.env
 
-# User uploads
-static/uploads/
+# Folders
+app/static/uploads/
+app/static/images/
+app/static/libraries/
 
 #images
 static/images/
