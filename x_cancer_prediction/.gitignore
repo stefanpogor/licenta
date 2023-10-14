@@ -13,9 +13,9 @@ __pycache__/
 /config/config.prod.env
 
 # Folders
-app/static/uploads/
-app/static/images/
-app/static/libraries/
+/app/static/uploads/
+/app/static/images/
+/app/static/libraries/
 
 #images
 static/images/
