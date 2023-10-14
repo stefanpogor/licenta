@@ -8,6 +8,7 @@ __pycache__/
 
 # Environment variables
 .env
+*.env
 
 # User uploads
 static/uploads/
