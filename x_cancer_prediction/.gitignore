@@ -6,13 +6,8 @@ __pycache__/
 *.log
 *.log.*
 
-# Environment variables
-.env
-*.env
-config/config.dev.env
-config/config.prod.env
-
 # Folders
+config/
 app/static/uploads/
 app/static/images/
 app/static/libraries/
