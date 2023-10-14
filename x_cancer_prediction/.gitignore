@@ -12,8 +12,11 @@ __pycache__/
 # User uploads
 static/uploads/
 
-#images
+#Images
 static/images/
+
+#Libraries
+static/libraries
 
 #IDE specific settings
 .vscode/
