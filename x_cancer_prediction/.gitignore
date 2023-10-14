@@ -14,3 +14,5 @@ app/static/libraries/
 
 #IDE specific settings
 .vscode/
+
+tst.py
